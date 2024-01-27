@@ -1,0 +1,196 @@
+Successfully inserted record with ID 2
+ID: 2, Title: Computational Biology and Bioinformatics in CS at Virginia Tech
+Date: 0610071600, Length: 60, X: 67, Y: 67, Cost: 30
+Description: Introduction to   bioinformatics and computation biology
+Keywords: Bioinformatics, computation_biology, Biology, Computer_Science, VT, Virginia_Tech
+Location Tree:
+Leaf with 1 objects: 2
+Successfully inserted record with ID 10
+ID: 10, Title: Computing Systems Research at VT
+Date: 0701250830, Length: 30, X: 68, Y: 67, Cost: 17
+Description: Seminar about the      Computing systems research at      VT
+Keywords: high_performance_computing, grids, VT, computer, science
+ID Tree:
+    null
+  10
+    null
+2
+  null
+Number of records: 2
+Keyword Tree:
+        null
+      science
+        null
+    high_performance_computing
+        null
+      grids
+          null
+        computer
+          null
+  computation_biology
+            null
+          Virginia_Tech
+            null
+        VT
+            null
+          VT
+            null
+      Computer_Science
+        null
+    Biology
+      null
+Bioinformatics
+  null
+Number of records: 11
+Location Tree:
+I
+  E
+  I
+    E
+    I
+      I
+        I
+          I
+            I
+              I
+                I
+                  Leaf with 1 objects: 2
+                  Leaf with 1 objects: 10
+                E
+              E
+            E
+          E
+        E
+      E
+Successfully inserted record with ID 3
+ID: 3, Title: Overview of HPC and CSE Research at VT
+Date: 1203301125, Length: 35, X: 67, Y: 67, Cost: 25
+Description: Learn what kind of    research is done on HPC  and CSE at VT
+Keywords: HPC, CSE, computer_science
+Location Tree:
+I
+  E
+  I
+    E
+    I
+      I
+        I
+          I
+            I
+              I
+                I
+                  Leaf with 2 objects: 2 3
+                  Leaf with 1 objects: 10
+                E
+              E
+            E
+          E
+        E
+      E
+Successfully inserted record with ID 6
+ID: 6, Title: Overview of HPC and CSE Research at VT
+Date: 1203301125, Length: 35, X: 31, Y: 31, Cost: 25
+Description: Learn what kind of    research is done on HPC  and CSE at VT
+Keywords: HPC, CSE, computer_science
+Record with ID 3 successfully deleted from the database
+ID Tree:
+    null
+  10
+      null
+    6
+      null
+2
+  null
+Number of records: 3
+Keyword Tree:
+        null
+      science
+        null
+    high_performance_computing
+        null
+      grids
+            null
+          computer_science
+            null
+        computer
+          null
+  computation_biology
+            null
+          Virginia_Tech
+            null
+        VT
+            null
+          VT
+              null
+            HPC
+              null
+      Computer_Science
+          null
+        CSE
+          null
+    Biology
+      null
+Bioinformatics
+  null
+Number of records: 14
+Location Tree:
+I
+  Leaf with 1 objects: 6
+  I
+    E
+    I
+      I
+        I
+          I
+            I
+              I
+                I
+                  Leaf with 1 objects: 2
+                  Leaf with 1 objects: 10
+                E
+              E
+            E
+          E
+        E
+      E
+Record with ID 2 successfully deleted from the database
+ID Tree:
+  null
+10
+    null
+  6
+    null
+Number of records: 2
+Keyword Tree:
+      null
+    science
+      null
+  high_performance_computing
+      null
+    grids
+          null
+        computer_science
+          null
+      computer
+        null
+VT
+      null
+    HPC
+      null
+  CSE
+    null
+Number of records: 8
+Location Tree:
+I
+  Leaf with 1 objects: 6
+  Leaf with 1 objects: 10
+Record with ID 10 successfully deleted from the database
+Location Tree:
+Leaf with 1 objects: 6
+Record with ID 6 successfully deleted from the database
+ID Tree:
+This tree is empty
+Keyword Tree:
+This tree is empty
+Location Tree:
+E

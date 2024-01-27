@@ -1,0 +1,42 @@
+insert 2
+Computational Biology and Bioinformatics in CS at Virginia Tech
+      0610071600       60     10     10 30
+AEGFAEW AWD
+    Introduction to   bioinformatics and computation biology
+
+insert 3
+Computational Biology and Bioinformatics in CS at Virginia Tech
+      0610071600       60     10     10 30
+AEGFAEW AWD
+    Introduction to   bioinformatics and computation biology
+
+insert 5
+Computational Biology and Bioinformatics in CS at Virginia Tech
+      0610071600       60     10     10 30
+swwdaw qawd
+    Introduction to   bioinformatics and computation biology
+
+print ID
+print cost
+print date
+print keyword
+
+delete 2
+
+print ID
+print cost
+print date
+print keyword
+
+delete 3
+
+print ID
+print cost
+print date
+print keyword
+delete 5
+
+print ID
+print cost
+print date
+print keyword
